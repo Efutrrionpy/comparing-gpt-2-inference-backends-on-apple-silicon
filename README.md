@@ -1,4 +1,4 @@
-# GPT-2 Inference Engine — From Scratch
+# Comparing GPT-2 Inference Backends on Apple Silicon
 
 The same GPT-2 weights, 7 implementations — from pure NumPy to INT8-quantized
 SIMD C++ with KV caching. All of them produce **identical output** under greedy
